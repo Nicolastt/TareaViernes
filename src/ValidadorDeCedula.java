@@ -1,6 +1,7 @@
 public class ValidadorDeCedula {
     private final String cedula;
 
+    // Constructor
     public ValidadorDeCedula(String cedula) {
         this.cedula = cedula;
     }
